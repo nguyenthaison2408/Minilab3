@@ -114,13 +114,3 @@ lib/
    flutter build apk --release
    ```
    File APK đầu ra nằm tại: `build/app/outputs/flutter-apk/app-release.apk`
-
----
-
-## 📦 Submission Deliverables (Gói Nộp Bài)
-
-1. **🌐 Live Demo / Release APK**:
-   - Link tải APK (`app-release.apk`): *[Cập nhật link GitHub Releases hoặc Google Drive tại đây]*
-   - Video Demo (quay quét hoá đơn & biểu đồ): *[Cập nhật link YouTube / Drive tại đây]*
-2. **💻 GitHub Repository**:
-   - Đã cấu hình mã nguồn sạch, đạt chuẩn phân tích tĩnh `flutter analyze` và đã vượt qua 100% `flutter test`.
